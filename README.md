@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Mul, a beginner about Linux Mint and Python 👋
 
+- 💬 Ask me about Linux Mint Debian Edition and Python
+  
 <!--
 **overwork-lab/overwork-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
