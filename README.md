@@ -1,6 +1,7 @@
-## Hi there, I'm overwork-lab, a beginner about Linux Mint and Python 👋
+## Hi there, I'm overwork-lab, a beginner about Linux Mint 👋
 
-- 💬 Ask me about Linux Mint Debian Edition and Python
+- 💬 Ask me about Linux Mint
+- 🌱 I’m currently learning Design with inkscape and Rust  
   
 <!--
 **overwork-lab/overwork-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
